@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "modeloAt01_S1_R2",
+    "slug": "modeloAt01_S1_R2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/malucos.png",
+    "userInterfaceStyle": "light",
+
+    "splash": {
+      "image": "./assets/malucos.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#6A1B9A"
+    },
+
+    "ios": {
+      "supportsTablet": true
+    },
+
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#6A1B9A",
+        "foregroundImage": "./assets/android-icon-foreground.png"
+      }
+    },
+
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+
+    "assetBundlePatterns": ["**/*"]
+  }
+}
